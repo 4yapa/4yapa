@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Yatharth Patil 👋
 
 ## About Me
 
@@ -12,16 +12,10 @@ I'm a Devoloper, passionate about programming and problem-solving.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-## Competitive Programming
-
 ### LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/TyrianPurple?theme=dark&font=Karma&ext=heatmap)
-
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=4yapa&show_icons=true&theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/TyrianPurple?theme=dark&font=Karma&ext=activity)
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/yatharth-patil-280266393)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](leetcode.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatharth-patil-280266393)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
