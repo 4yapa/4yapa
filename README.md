@@ -13,7 +13,7 @@ I'm a Devoloper, passionate about programming and problem-solving.
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ### LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/TyrianPurple?theme=dark&font=Karma&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/TyrianPurple?theme=dark&font=Karma&ext=contest)
 
 ## Connect with Me
 
